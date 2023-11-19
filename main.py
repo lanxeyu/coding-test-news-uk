@@ -6,6 +6,8 @@ def print_1_to_100():
     for i in range(1, 101):
         print(i)
 
+# print_1_to_100()
+
 # Question 2
 # Write a function that prints the numbers from 1 to 100. However, for
 # multiples of 3 it should print “Fizz” instead of the number; for
@@ -22,6 +24,8 @@ def print_fizzbuzz():
             print('Buzz')
         else:
             print(i)
+
+# print_fizzbuzz()
 
 # Question 3
 # Write a function to search for a character within a string. Given a
